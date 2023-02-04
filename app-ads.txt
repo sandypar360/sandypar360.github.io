@@ -82,6 +82,8 @@ lijit.com, 257429, RESELLER, fafdf38b16bf6b2b
 sovrn.com, 257429, RESELLER, fafdf38b16bf6b2b
 openx.com, 540603695, RESELLER, 6a698e2ec38604c6
 openx.com, 539966405, DIRECT, 6a698e2ec38604c6
+gamob.com, pub-5230133008, DIRECT 
+google.com, pub-5882656183054581, DIRECT, f08c47fec0942fa0
 pubmatic.com, 157841, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156383, RESELLER, 5d62403b186f2ace
 loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
